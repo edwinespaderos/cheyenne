@@ -82,13 +82,13 @@ body {
 }
 
 .r-box-wrapper {
-  margin: 0 48px;
+  margin: 0px 66px;
 }
 
 .r-box {
 
-  width: 380px;
-  height: 200px;
+  width: 360px;
+  height: 203px;
   text-align: center;
   padding:10px;
   @include border-radius(7px);
@@ -97,7 +97,8 @@ body {
   margin: 15px;
   p {
     font-size: 12px;
-    line-height: 17px;
+    line-height: 19px;
+    margin: 15px
   }
 }
 
